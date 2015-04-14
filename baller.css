@@ -1,0 +1,22 @@
+p {
+	color: #ffffff; 
+}
+body {
+    background-color: #000000;
+	//background-image: url('http://www.gifbin.com/bin/052009/1243418448_dwayne-the-rock-johnson.gif')
+}
+table{
+	color: #D4E8E7;
+}
+a:link{
+	text-decoration: none;
+	color: white;
+}
+a:visited{
+	color: white;
+}
+a:hover{
+	color: red;
+}
+a:active{
+text-decoration: blink;}
