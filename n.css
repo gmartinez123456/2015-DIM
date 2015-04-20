@@ -1,0 +1,39 @@
+body {
+	background-image: url('http://wallmeta.com/wp-content/uploads/2015/01/Colorful-Backgrounds-High-Quality-Photo.jpg');
+	background-color: white;
+}
+<style>
+@keyframes example{
+  from { opacity: 1.0; }
+  to { opacity: 0.0; }
+} 
+a:link{
+text-decoration:none;
+color: black;
+}
+a:visited{
+text-decoration:none;
+color: black;
+}
+a:hover{
+
+}
+#header {
+    color:#eeeee;
+    text-align:center;
+    padding:5px;
+}
+#nav {
+    line-height:30px;
+    height:300px;
+    width:100px;
+    float:left;
+    padding:5px; 
+}
+#section {
+    width:350px;
+    float:left;
+    padding:30px; 
+}
+}
+</style>

@@ -2,8 +2,9 @@ p {
 	color: #ffffff; 
 }
 body {
-    background-color: #000000;
-	//background-image: url('http://www.gifbin.com/bin/052009/1243418448_dwayne-the-rock-johnson.gif')
+    	background-image: url('http://www.gifbin.com/bin/052009/1243418448_dwayne-the-rock-johnson.gif');
+	background-color: #000000;
+
 }
 table{
 	color: #D4E8E7;
