@@ -1,0 +1,28 @@
+body {
+	background-color: #856C4A;
+
+}
+
+<style>
+a:link{
+
+
+}
+
+#top {
+    background-color:red;
+	background-image: url 'http://p1.pichost.me/i/64/1886464.png';
+    text-align:center;
+	height:150px;
+
+	
+}
+#left {
+    height:300px;
+    float:left;
+    padding:5px; 
+	-webkit-column-span: all;
+	-webkit-column-count: 3;
+
+}
+</style>
